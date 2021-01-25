@@ -1,0 +1,21 @@
+body {
+  font-family: "Raleway", sans-serif;
+  background: palegoldenrod; }
+
+.navbar {
+  font-weight: 100; }
+  .navbar .navbar-brand h3 {
+    font-weight: 100; }
+  .navbar .nav-item {
+    font-size: 1.4rem; }
+  .navbar .nav-link:hover {
+    transition: border 0.2s;
+    border-bottom: 1px solid white; }
+
+@media (max-width: 786px) {
+  .navbar {
+    background: #1f1f1f; }
+    .navbar .nav-link:hover {
+      border-bottom: none; } }
+
+/*# sourceMappingURL=custom.css.map */

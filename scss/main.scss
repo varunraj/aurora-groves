@@ -1,0 +1,5 @@
+//combine 2 files custom.scss and custom_bootstrap.scss
+// use this to generate css using koala.
+
+@import "custom_bootstrap";
+@import "custom";
